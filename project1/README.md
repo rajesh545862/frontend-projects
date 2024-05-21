@@ -1,5 +1,5 @@
-![image](https://github.com/rajesh545862/frontend-projects/assets/65877208/42e1b510-aca1-4186-b38f-abc98798888d)
-![Uploading img1.png…]()    ![img2](https://github.com/rajesh545862/frontend-projects/assets/65877208/085e5259-f7a9-4962-a078-1ccedfa34b5e)
+![Uploading img1.png…]()
+  ![img2](https://github.com/rajesh545862/frontend-projects/assets/65877208/085e5259-f7a9-4962-a078-1ccedfa34b5e)
 
 
 
