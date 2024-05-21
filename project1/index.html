@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Navbar & Carousel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div class="brandname">BrandName</div>
+        <div class="menu-icon" id="menu-icon">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+        </div>
+        <ul class="nav-list" id="nav-list">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><button class="nav-button">Sign Up</button></li>
+        </ul>
+    </nav>
+
+    <div class="carousel">
+        <img src="image1.jpg" class="carousel-image active" alt="Image 1">
+        <img src="image2.jpg" class="carousel-image" alt="Image 2">
+        <img src="image3.jpg" class="carousel-image" alt="Image 3">
+        <button class="carousel-button prev" onclick="prevSlide()">❮</button>
+        <button class="carousel-button next" onclick="nextSlide()">❯</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
